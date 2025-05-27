@@ -1,2 +1,2 @@
 # MAD-UI-Design
-User Interface design for Mobile app.
+User Interface design for Mobile app. This mobile app show various placess of sri lanaka.
